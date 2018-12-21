@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "774152269",
+    "firebase_url": "https://projectt4afloranovaapp.firebaseio.com",
+    "project_id": "projectt4afloranovaapp",
+    "storage_bucket": "projectt4afloranovaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774152269:android:e7bd826f46f81b9c",
+        "android_client_info": {
+          "package_name": "com.example.projectt4a_floranovaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774152269-40u21ipn2pcsod5g46nr3bmev568rpec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectt4a_floranovaapp",
+            "certificate_hash": "bb1af9b39eb8f187d97da45bed784459128a4732"
+          }
+        },
+        {
+          "client_id": "774152269-80n0917njslrrass4tbarfo77i2ulsm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXmiNceZfMZm6dnhkZqWCHx7iWRGzfYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774152269-80n0917njslrrass4tbarfo77i2ulsm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
